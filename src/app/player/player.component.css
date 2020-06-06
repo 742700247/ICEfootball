@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-shadow: black;
+    font-size: 60px;
+    font-weight: bold;
+    color: wheat;
+  }
+  th {
+    text-align: center;
+    font-size: 35px;
+    width: 25%;
+    color: wheat;
+  }
+  td{
+    width: 25%;
+    font-size: 30px;
+    text-align: center;
+    color: wheat;
+  }
+  div{
+    text-align: center;
+  }

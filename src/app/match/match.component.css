@@ -1,0 +1,16 @@
+table, td, th {
+    text-align: center;
+    font-size: 35px;
+    color: wheat;
+  }
+  
+  h1{
+    text-align: center;
+    border:15px;
+    color: wheat;
+  }
+  
+  td{
+    width: 25%;
+  }
+  

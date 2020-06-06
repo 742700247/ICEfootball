@@ -1,0 +1,17 @@
+th {
+    text-align: center;
+    font-size: 60px;
+    color: wheat;
+  }
+  td{
+    width: 25%;
+    font-size: 40px;
+    text-align: center;
+    color: wheat;
+  }
+  button{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: wheat;
+  }
+  
