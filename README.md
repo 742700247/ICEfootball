@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## FootballExplorer
+This is an Angular 7 school assignment which allows users to browse football leagues, team, and matches from https://www.football-data.org/ 's free tier API, this assignment was generated with Angular.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
